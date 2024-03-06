@@ -1,6 +1,6 @@
 # Module 2 Group Assignment
 
-CSCI 5117, Spring 2022, [assignment description](https://canvas.umn.edu/courses/355584/pages/project-2)
+CSCI 5117, Spring 2024, [assignment description](https://canvas.umn.edu/courses/413159/pages/project-2)
 
 ## App Info:
 
@@ -58,7 +58,7 @@ along with a very brief caption:**
 ## External Dependencies
 
 **Document integrations with 3rd Party code or services here.
-Please do not document required libraries (e.g., Vue, Vuefire, Firebase).**
+Please do not document required libraries (e.g., React, Azure serverless functions, Azure nosql).**
 
 * Library or service name: description of use
 * ...
